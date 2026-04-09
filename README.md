@@ -61,6 +61,9 @@ This project is a simple console based **Library Management System** developed u
 • main package:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;o Main.java
 
+**Note:** All these files are organized under `src/com/library/` directory, followed by their respective packages (main, model, service).
+
+## 6. Screenshots
 
 
 
