@@ -64,9 +64,24 @@ This project is a simple console based **Library Management System** developed u
 **Note:** All these files are organized under `src/com/library/` directory, followed by their respective packages (main, model, service).
 
 ## 6. Screenshots
+### 6.1 Main Menu  
+![Main Menu](screenshots/main-menu.png)
+### 6.2 Add Book  
+![Add Book](screenshots/add-book.png)
+### 6.3 Show All Books  
+![Show All Books](screenshots/show-all-books.png)
+### 6.4 Search Book (By Title / Author)  
+![Search Book](screenshots/search-by-author-or-title-example.png)
+### 6.5 Issue Book  
+![Issue Book](screenshots/issue-book.png)
+### 6.6 Return Book (With Fine)  
+![Return Book](screenshots/return-book.png)
 
+## 7. How to Run
 
-
+1. Open the project in any Java IDE (Eclipse, IntelliJ, or VS Code)  
+2. Run the Main.java file  
+3. Use the menu options displayed in the console
 
 
 
