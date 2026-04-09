@@ -9,6 +9,8 @@ out/
 # VS Code
 .vscode/
 
+folder_structure.txt
+
 # OS files
 .DS_Store
 Thumbs.db
